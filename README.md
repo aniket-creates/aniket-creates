@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **backend development**
 
-- 💬 Ask me about **react , gsap**
+- 💬 Ask me about **HTML/CSS , gsap**
 
 - 📫 How to reach me **rajaniket20249@gmail.com**
 
